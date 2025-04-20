@@ -79,5 +79,3 @@ AVIF Browser dibuat dengan semangat oleh komunitas yang cinta privasi & kebebasa
 
 ---
 
-Kalau kamu udah punya **logo AVIF** atau mau aku buatin placeholder logonya juga, tinggal bilang ya! Mau dijadiin website landing page juga bisa sekalian.
-

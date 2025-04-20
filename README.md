@@ -25,7 +25,15 @@ Project ini tidak menyertakan full source Chromium (karena ukurannya besar). Seb
 
 ## Struktur Project
 
-avif-browser/ ├── .circleci/              # Konfigurasi CI ├── patches/                # Patch Chromium (UI, privasi, branding, dll) ├── build.sh                # Script otomatis untuk fetch + patch + build ├── build-config/args.gn    # Konfigurasi build Chromium └── README.md
+```
+
+avif-browser/
+├── .circleci/              # Konfigurasi CI 
+├── patches/                # Patch Chromium (UI, privasi, branding, dll) 
+├── build.sh                # Script otomatis untuk fetch + patch + build 
+├── build-config/args.gn    # Konfigurasi build Chromium 
+└── README.md
+```
 
 ---
 
